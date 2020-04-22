@@ -1,5 +1,5 @@
-# mock-machine-coding-3
-Welcome to the 3rd Mock Machine Coding Round by [workat.tech](http://workat.tech).
+# Trello Design
 
-Please visit [this link](https://workattech.github.io/mock-machine-coding-3/) to participate.
+Mock machine coding practice, built a barebones copy of Trello system with basics functionality.
+<br>Problem Statement : [Click Here](https://workat.tech/machine-coding/practice/trello-problem-t0nwwqt61buz)
 
